@@ -1,0 +1,36 @@
+_repo: Leonorenlieder_45404
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45404-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Günther, Johann Christian
+    aliases:
+    - Gunther, Johann Christian
+    - Günther, Christian
+    birthdate: 1695
+    deathdate: 1723
+    gutenberg_agent_id: '43265'
+    url: http://www.gutenberg.org/2009/agents/43265
+  editor:
+    agent_name: Höfer, Conrad
+    alias: Hofer, Conrad
+    birthdate: 1872
+    deathdate: 1947
+    gutenberg_agent_id: '43266'
+    url: http://www.gutenberg.org/2009/agents/43266
+description: ''
+gutenberg_issued: '2014-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45404'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry -- 18th century'
+title: Leonorenlieder
+url: http://www.gutenberg.org/ebooks/45404
